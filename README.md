@@ -33,7 +33,7 @@ Created a personal portfolio website to showcase my work and skills. The website
 
 Have a question or want to get in touch? Feel free to reach out!
 - **Email:** garvkamra24@gmail.com
-- **LinkedIn:** [LinkeIn](https://www.linkedin.com/in/garvkamra/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/garvkamra/)
 - **Website:** [NeevCode](https://neevcode.com)
 
 ## 🚀 How to Use
